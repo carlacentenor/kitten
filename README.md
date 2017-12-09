@@ -23,7 +23,7 @@ Se aplico de la siguiente manera.
         <img src="assets/images/kitten-medium.png" alt="kitten" style="width:auto;">
     </picture>
 ```
-Dentro de la etiqueta En  `<source media=''>` he colocado laa resolución de los dispositivos que se va tener en cuenta para cambiar las imágenes.
+Dentro de la etiqueta   `<source media=''>` he colocado la resolución de los dispositivos que se va tener en cuenta para cambiar las imágenes.
 Esta información la obtuve gracias al siguiente link : [W3schools](https://www.w3schools.com/tags/tag_picture.asp "titulo").
 
 Asimismo, con esta etiqueta `<picture>` se han establecido el orden de las imágenes de los gatos, pero el fondo de cada uno se estableció en la hoja de estilos CSS utilizando Media Queries.
